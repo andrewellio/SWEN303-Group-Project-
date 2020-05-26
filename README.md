@@ -8,3 +8,8 @@ https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t21/swen303-group
 | Jason Chen | cell | 
 | Moses Caramto | cell |
 | Binke Xu | cell |
+
+| header | header |
+| ------ | ------ |
+| cell | cell |
+| cell | cell | 
