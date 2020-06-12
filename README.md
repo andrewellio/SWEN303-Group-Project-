@@ -28,4 +28,4 @@ https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t21/swen303-group
 
 [Binke`s Reflection](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t21/swen303-group-project/-/blob/master/Reflection-Binke%20Xu)
 
-[Elliott`s Reflection]https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t21/swen303-group-project/-/blob/master/Reflection%20-%20Elliott%20Andrews.md
+[Elliott`s Reflection](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t21/swen303-group-project/-/blob/master/Reflection%20-%20Elliott%20Andrews.md)
