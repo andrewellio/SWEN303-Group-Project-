@@ -21,5 +21,5 @@ https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t21/swen303-group
 | Binke Xu | Recorder A (software) | The recorder A (if approved) will record the user test session with screen capture and audio.If recording is not approved, then they will perform a secondary role as below.|
 
 
-
+## Reflections 
 [Binke`s Reflection](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t21/swen303-group-project/-/blob/master/Reflection-Binke%20Xu)
