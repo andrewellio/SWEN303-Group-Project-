@@ -1,0 +1,1 @@
+you contributed to the projects, and what you were responsible for.
