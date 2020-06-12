@@ -8,3 +8,4 @@ The test result was also a group discussion where I took part in it. I was able 
 
 Issues from the test result were also distributed evenly throughout our group. I was given 4 issues to resolve (which can be seen in the issues page of our gitlab page), but due to our time limit, it was impossible to resolve them. 
 
+Overall the project Overall, my responsibility as a group member was achieved as I was able to give in some ideas on how to do the project and improvements. Also, I was able to help resolve some problems that occur during the creation of the projects and aswell as the tasks required. 
