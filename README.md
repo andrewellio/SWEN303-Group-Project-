@@ -16,10 +16,9 @@ https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t21/swen303-group
 | Student Name | Role | Responsibility |
 | ------ | ------ | ------ |
 | Elliott Andrews | Moderator | To read and direct tasks for the user tester to perform.They will also ask for feedback and keep the user engaged with lots of communication.|
-| Jason Chen | Recorder B (note taker) |The recorder B will make notes and write/type down important feedback and suggestions the user tester has given. This should result in a list of comments for each task. |
 | Moses Caramto | Helper |To provide help, direction and hints for when the user tester asks for help, or appears to be stuck. |
 | Binke Xu | Recorder A (software) | The recorder A (if approved) will record the user test session with screen capture and audio.If recording is not approved, then they will perform a secondary role as below.|
-
+| Jason Chen | Recorder B (note taker) |The recorder B will make notes and write/type down important feedback and suggestions the user tester has given. This should result in a list of comments for each task. |
 
 ## Reflections 
 [Binke`s Reflection](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t21/swen303-group-project/-/blob/master/Reflection-Binke%20Xu)
