@@ -21,4 +21,6 @@ https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t21/swen303-group
 | Jason Chen | Recorder B (note taker) |The recorder B will make notes and write/type down important feedback and suggestions the user tester has given. This should result in a list of comments for each task. |
 
 ## Reflections 
+[Group Reflection](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t21/swen303-group-project/-/wikis/Reflection/Group-Reflection)
+
 [Binke`s Reflection](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t21/swen303-group-project/-/blob/master/Reflection-Binke%20Xu)
