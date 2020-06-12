@@ -20,6 +20,9 @@ https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t21/swen303-group
 | Binke Xu | Recorder A (software) | The recorder A (if approved) will record the user test session with screen capture and audio.If recording is not approved, then they will perform a secondary role as below.|
 | Jason Chen | Recorder B (note taker) |The recorder B will make notes and write/type down important feedback and suggestions the user tester has given. This should result in a list of comments for each task. |
 
+## Usability Test Discussion
+[Usability Test Discussion](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t21/swen303-group-project/-/wikis/Usability-Test-Plan/Discussion)
+
 ## Reflections 
 [Group Reflection](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t21/swen303-group-project/-/wikis/Reflection/Group-Reflection)
 
