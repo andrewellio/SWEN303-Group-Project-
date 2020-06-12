@@ -11,7 +11,7 @@ https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t21/swen303-group
 | Moses Caramto | 300373784 |
 | Binke Xu | 300467568 | 
 
-## Roles 
+## Testing Roles 
 
 | Student Name | Role | Responsibility |
 | ------ | ------ | ------ |
@@ -23,7 +23,7 @@ https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t21/swen303-group
 ## Usability Test Discussion
 [Usability Test Discussion](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t21/swen303-group-project/-/wikis/Usability-Test-Plan/Discussion)
 
-## Reflections 
+## Reflections (Individual - testing)
 [Group Reflection](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t21/swen303-group-project/-/wikis/Reflection/Group-Reflection)
 
 [Binke`s Reflection](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2020/project1/t21/swen303-group-project/-/blob/master/Reflection-Binke%20Xu)
